@@ -37,7 +37,7 @@
     "mongodb": "^3.5.3",
     "mongoose": "^5.0.11",
     "mysql2": "^1.6.5",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.19.4",
     "npm": "^6.13.7",
     "postcss-loader": "^2.1.3",
